@@ -1,6 +1,6 @@
 title: Michael Shepherd M
 logo: assets/images/profilePicture.jpg
 show_downloads: true
-remote_theme: pages-theme/minimal@v0.2.0
+theme: minima
 plugins:
-  - jekyll-remote-theme
+  - jekyll-seo-tag
